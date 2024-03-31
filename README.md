@@ -18,15 +18,15 @@ I am a BSCS graduate from Superior University (CGPA: 3.1, Completion Year: 2024)
                     
                   ### Socials
                   
-                  
-               <p align="left">
+<p align="left">
     <a href="https://www.github.com/thezeeshannoor" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="32" height="32" alt="GitHub" />
     </a>
     <a href="https://www.linkedin.com/in/zeeshan-noor/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="32" height="32" alt="LinkedIn" />
     </a>
 </p>
+
 
 ### Badges
 <b>My GitHub Stats</b> <br>
