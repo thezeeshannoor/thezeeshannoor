@@ -17,7 +17,7 @@ I am a BSCS graduate from Superior University (CGPA: 3.1, Completion Year: 2024)
                     </p>
                     
                
- <h4>Social</h4>                 
+ <h1>Social</h1>                 
 <p align="left">
     <a href="https://www.github.com/thezeeshannoor" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="32" height="32" alt="GitHub" />
@@ -29,7 +29,7 @@ I am a BSCS graduate from Superior University (CGPA: 3.1, Completion Year: 2024)
 
 
 ### Badges
-<b>My GitHub Stats</b> <br>
+<h2>My GitHub Stats</h2> <br>
 <a href="http://www.github.com/thezeeshannoor">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=thezeeshannoor&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
